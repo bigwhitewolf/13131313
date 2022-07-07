@@ -34,3 +34,35 @@
 		* CPU概述
 		* 内存管理系统
 	2. 网络构成
+
+> 一级引用
+>> 二级引用
+>>> 三级引用
+
+
+[GitHub](https://github.com "点击跳转到github")
+
+![自定义图片](C://Users//郭俊昕//Desktop//leige.jpg)
+
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("hi c");
+		return 0;
+	}
+```
+
+```python
+	import os
+```
+
+```bash
+	sudo apt-get install tree
+```
+
+游戏名|游戏价格|游戏排名
+--|:--|--:
+赛博朋克2077|9|9999
+PUBG|8|9998
+
