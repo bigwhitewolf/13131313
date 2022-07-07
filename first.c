@@ -6,6 +6,7 @@
 
 int main()
 {
-	printf("hellow world");
+
+	printf("hellow !!");
 	return 0;
 }
